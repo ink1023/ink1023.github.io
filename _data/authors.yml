@@ -8,7 +8,9 @@ author1:
   # Used at the bottom of each page and at the top of the `about` layout
   # Markdown enabled, can use multiple paragraphs (enabled by `|`)
   about:             |
-    目前大一信息安全专业在读，喜欢纯音乐，热爱技术，爱鼓捣有趣的东西。他的前方还有路，他的心中还有诗。
+    他目前大一信息安全专业在读，喜欢纯音乐，热爱技术，爱鼓捣有趣的东西。
+    |
+    他说，他的前方还有路，他的心中还有诗。
 
   # This photo will be used in the about section
   picture:

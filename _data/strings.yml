@@ -13,9 +13,9 @@
 home:                  主页
 pages:                 页面
 posts:                 文章
-about:                 关于
+about:                 关于他
 related_posts:         相关文章
-other_projects:        Other Projects
+other_projects:        其他项目
 comments:              评论
 jump_to:               跳转到
 navigation:            导航
@@ -27,7 +27,7 @@ older:                 以前的
 forward:               前进
 back:                  后退
 permalink:             永久链接
-permalink_icon:        icon-link
+permalink_icon:        图标链接
 templates:             模板（web app）
 present:               当前的
 
