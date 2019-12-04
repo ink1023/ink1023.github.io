@@ -6,7 +6,7 @@ description: >
 excerpt_separator: <!--more-->
 ---
 
-![静态网站还是动态网站？](./images/1575462997_609121.png)
+![静态网站还是动态网站？](https://i.loli.net/2019/12/04/cL5xNjhA8wMWF3Z.png)
 <!--more-->
 
 
