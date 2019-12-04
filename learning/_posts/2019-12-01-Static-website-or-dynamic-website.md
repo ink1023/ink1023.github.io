@@ -6,7 +6,7 @@ description: >
 excerpt_separator: <!--more-->
 ---
 
-
+![静态网站还是动态网站？](./images/1575462997_609121.png)
 <!--more-->
 
 
