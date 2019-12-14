@@ -5,7 +5,7 @@ description: >
   
 excerpt_separator: <!--more-->
 ---
-
+![VSCode](https://i.loli.net/2019/12/13/7WYuUgHlKPxtDXv.jpg)
 
 <!--more-->
 *[IDE]: 集成开发环境 Integrated Development Environment
@@ -53,6 +53,7 @@ excerpt_separator: <!--more-->
  ![设置主题](https://i.loli.net/2019/12/13/q12dElgMSQ8VzZH.png)
  
 ## VSCode中的一些概念
+ - 终端
  - 工作区
  - 
 
@@ -63,3 +64,9 @@ excerpt_separator: <!--more-->
 
 
 ## 我要编写Java程序！
+
+
+
+## 源代码管理
+
+
